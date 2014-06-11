@@ -1,0 +1,7 @@
+{
+    "name": "fineuploader",
+    "version": "5.0.1",
+    "description": "Fineuploader v5.0.1",
+    "main": "custom.fineuploader-5.0.1.js",
+    "license": "MIT"
+}
